@@ -1,5 +1,5 @@
 
-*Multi-view Inference for Relation Extraction with Uncertain Knowledge*
+*Multi-view Inference for Relation Extraction with Uncertain Knowledge*.
 [[Bo Li]](https://deepblue666.github.io/), [[Wei Ye]](https://se.pku.edu.cn/kcl/weiye/), Canming Huang and Shikun Zhang. [[*AAAI 2021, Regular Paper*]](https://arxiv.org/abs/2104.13579)
 
 
