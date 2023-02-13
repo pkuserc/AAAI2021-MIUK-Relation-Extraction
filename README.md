@@ -9,7 +9,7 @@ We build and release a corpus named **Probase_Desp**, a corpus with high-quality
 We apply **Probase_Desp** and uncertain knowledge on the sentence- and document-level relation extraction tasks, and it imporves the performance by a large margin. **Probase_Desp** can serve as a valuable external knowledge resource for relation extraction and many other natural language processing tasks.
 
 ---
-**Download the Resource**
+> **Download the Resource**
 
 Please download **Probase_Desp** from [here](https://drive.google.com/drive/folders/1gYl-vx4lCBf_522g3h4krPrt0ciXKAp2?usp=sharing). For more information about the uncertain knowledge base, pleas refer to [**Probase**](https://www.microsoft.com/en-us/research/project/probase/).
 
